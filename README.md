@@ -22,4 +22,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/abhaypandit-techhub/50DaysLeetCode/tree/master/1952-three-divisors) |
+## Array
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhaypandit-techhub/50DaysLeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhaypandit-techhub/50DaysLeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/abhaypandit-techhub/50DaysLeetCode/tree/master/1394-find-lucky-integer-in-an-array) |
 <!---LeetCode Topics End-->
